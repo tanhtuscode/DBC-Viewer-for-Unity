@@ -51,7 +51,7 @@ https://github.com/tanhtuscode/DBC-Viewer-for-Unity.git
 
 ## Support
 
-For bug reports, feature requests, or other issues, visit the [Issues](https://github.com/YourUsername/DBC-Viewer/issues) page. Your feedback helps improve DBC Viewer!
+For bug reports, feature requests, or other issues, visit the [Issues](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/issues) page. Your feedback helps improve DBC Viewer!
 
 ## Contributing
 
