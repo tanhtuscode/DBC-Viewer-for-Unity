@@ -24,7 +24,7 @@ DBC Viewer is a Unity Editor tool designed to simplify the process of loading an
 
 ## Installation
 
-[Releases](https://github.com/YourUsername/DBC-Viewer/releases) • [Unity Package](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/releases/download/public/DbcViewerUnity.unitypackage) • [Zip](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/archive/master.zip)
+[Releases](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/releases) • [Unity Package](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/releases/download/public/DbcViewerUnity.unitypackage) • [Zip](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/archive/master.zip)
 
 ### Unity Package Manager (UPM)
 
@@ -37,7 +37,7 @@ https://github.com/tanhtuscode/DBC-Viewer-for-Unity.git
 
 ### Importing the .unitypackage
 
-1. Download the latest Unity Package from the [Releases](https://github.com/YourUsername/DBC-Viewer/releases) page.
+1. Download the latest Unity Package from the [Releases](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/releases) page.
 2. In Unity, navigate to **Assets > Import Package > Custom Package…**
 3. Select the downloaded `.unitypackage` and follow the import prompts.
 
