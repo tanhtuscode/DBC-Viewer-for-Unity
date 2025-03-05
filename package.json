@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "DBC Viewer",
     "description": "A Unity Editor tool to load and visualize DBC files.",
-    "unity": "6000.0.4",
+    "unity": "2020.3",
     "keywords": [
         "DBC",
         "Viewer",
@@ -12,6 +12,10 @@
     "categories": [
         "Tools"
     ],
-    "dependencies": {}
+    "dependencies": {},
+    "author": {
+        "name": "Nathan Tran",
+        "email": "nathantrvn18@gmail.com"
+    }
   }
   
