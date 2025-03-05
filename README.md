@@ -1,6 +1,6 @@
 # DBC Viewer
 
-![DBC Viewer](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/blob/main/Document/look.png)
+![DBC Viewer](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/blob/main/Document/banner.png)
 
 ## Unity Editor extension for loading, parsing, and visualizing DBC files.
 
