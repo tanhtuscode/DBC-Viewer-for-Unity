@@ -14,9 +14,6 @@ Interactive grid view with detailed signal inspection.
 - [About](#about)
 - [Installation](#installation)
 - [Features](#features)
-- [Support](#support)
-- [Contributing](#contributing)
-- [Donate](#donate)
 - [License](#license)
 
 ## About
@@ -27,7 +24,7 @@ DBC Viewer is a Unity Editor tool designed to simplify the process of loading an
 
 ## Installation
 
-[Releases](https://github.com/YourUsername/DBC-Viewer/releases) • [Unity Package](https://github.com/YourUsername/DBC-Viewer/releases/download/v1.0.0/DBCViewer_v1.0.0.unitypackage) • [Zip](https://github.com/YourUsername/DBC-Viewer/archive/master.zip)
+[Releases](https://github.com/YourUsername/DBC-Viewer/releases) • [Unity Package](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/releases/download/public/DbcViewerUnity.unitypackage) • [Zip](https://github.com/tanhtuscode/DBC-Viewer-for-Unity/archive/master.zip)
 
 ### Unity Package Manager (UPM)
 
@@ -64,12 +61,6 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or fix.
 3. Commit your changes with descriptive messages.
 4. Submit a pull request for review.
-
-## Donate
-
-DBC Viewer is maintained in my spare time, and your support is greatly appreciated. If you'd like to support further development, consider donating:
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/YourPayPalID)
 
 ## License
 
